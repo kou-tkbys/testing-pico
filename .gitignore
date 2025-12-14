@@ -1,0 +1,18 @@
+# Compiled binaries and build artifacts for TinyGo
+*.elf
+*.hex
+*.bin
+*.uf2
+*.wasm
+
+# Go build cache
+/build
+
+# Editor/IDE specific files
+.vscode/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
